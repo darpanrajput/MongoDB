@@ -1,0 +1,36 @@
+[
+  {
+    "name": "Darpan",
+    "hobbies": [
+      {
+        "title": "Cooking",
+        "frequency": 5
+      },
+      {
+        "title": "Cars",
+        "frequency": 2
+      }
+    ],
+    "phone": "765482365",
+    "age": 30
+  },
+  {
+    "name": "Anna",
+    "hobbies": [
+      {
+        "title": "sports",
+        "frequency": 2
+      },
+      {
+        "title": "yoga",
+        "frequency": 3
+      }
+    ],
+    "phone": "123456789",
+    "age": null
+  },
+  {
+    "name": "chris",
+    "hobbies": ["sports", "cooking", "Hiking"]
+  }
+]
